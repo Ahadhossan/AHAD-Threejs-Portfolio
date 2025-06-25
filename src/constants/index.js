@@ -260,6 +260,16 @@ export const calculateSizes = (isSmall, isMobile, isTablet) => {
 export const workExperiences = [
   {
     id: 1,
+    name: 'imranslab',
+    pos: 'Junior Software Engineering',
+    duration: '2025-present',
+    title:
+      'Worked on a team responsible for developing a new Web Development feature that allowed users to create and share short-form video content, including designing and implementing a new user interface and developing the backend & Frontend infrastructure to support the feature',
+    icon: 'https://i.ibb.co/Z0BSXrf/logo.jpg',
+    animation: 'victory',
+  },
+  {
+    id: 2,
     name: 'People N Tech Limited',
     pos: 'Intern Full Stack Developer',
     duration: '2022',
@@ -269,7 +279,7 @@ export const workExperiences = [
     animation: 'victory',
   },
   {
-    id: 2,
+    id: 3,
     name: 'Nation It Limited',
     pos: 'CRO',
     duration: '2021 - 2022',
@@ -279,7 +289,7 @@ export const workExperiences = [
     animation: 'clapping',
   },
   {
-    id: 3,
+    id: 4,
     name: 'Nation It Limited',
     pos: 'Digital Marketing',
     duration: '2020-2021',
